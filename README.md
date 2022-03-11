@@ -6,3 +6,4 @@
 :) 
 
 I have a joke about my work as a software engineer, but it only works for me.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F78787&lines=hey;this+took+me+way+to+long+to+write+;safe+to+say+i+suck+at+cs)](https://git.io/typing-svg)
